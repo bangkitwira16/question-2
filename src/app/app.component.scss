@@ -1,0 +1,79 @@
+.container {
+  display: flex;
+  height: 100vh;
+}
+
+.content {
+  padding: 20px;
+  width: 80%;
+  margin: auto;
+}
+
+.w- {
+  &37 {
+    width: 37%;
+  }
+
+  &63 {
+    width: 63%;
+  }
+
+  &100 {
+    width: 100%;
+  }
+}
+
+.d- {
+  &flex {
+    display: flex;
+  }
+
+  &r {
+    float: right;
+  }
+}
+
+p {
+  margin: 0
+}
+
+.p {
+  &8 {
+    padding: 8px;
+  }
+
+  &r- {
+    &10 {
+      padding-right: 10px;
+    }
+  }
+
+  &b- {
+    &20 {
+      padding-bottom: 20px;
+    }
+  }
+}
+
+.m {
+  &b- {
+    &10 {
+      margin-bottom: 10px;
+    }
+    &60 {
+        margin-bottom: 60px;
+    }
+  }
+
+  &t- {
+    &45 {
+      margin-top: 45px;
+    }
+  }
+}
+
+.text- {
+  &center {
+    text-align: center;
+  }
+}

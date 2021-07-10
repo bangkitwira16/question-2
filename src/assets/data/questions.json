@@ -1,0 +1,22 @@
+[
+    {
+        "question": "Siapakah nama depan anda?",
+        "type": "text"
+    },
+    {
+        "question": "Siapakah nama belakang anda?",
+        "type": "text"
+    },
+    {
+        "question": "Apakah alamat email anda?",
+        "type": "text"
+    },
+    {
+        "question": "Apakah jenis kelamain anda?",
+        "type": "radio"
+    },
+    {
+        "question": "Berapa usia anda saat ini?",
+        "type": "number"
+    }
+]
